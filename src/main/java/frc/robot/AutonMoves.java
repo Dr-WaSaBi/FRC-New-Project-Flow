@@ -54,7 +54,14 @@ public class AutonMoves extends Command {
 
   private static boolean thustRobotStarboard(int distance, int speed){
     /**
-     * A function to move the robot sideways thru the water
+     * A function to move the robot sideways thru the water to the right (starboard)
+     */
+    return(true);
+  }
+
+  private static boolean thrustRobotPort(int distance, int speed){
+    /**
+     * Function to move the robot sideways thru the water to left (port)
      */
     return(true);
   }
