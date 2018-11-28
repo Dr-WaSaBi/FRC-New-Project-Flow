@@ -51,4 +51,11 @@ public class AutonMoves extends Command {
      */
     return(true); //send back that we did it. Yeah!
   }
+
+  private static boolean thustRobotStarboard(int distance, int speed){
+    /**
+     * A function to move the robot sideways thru the water
+     */
+    return(true);
+  }
 }
